@@ -12,7 +12,7 @@ The data was sourced from an online airline review platform, spanning reviews fr
 
 
 **Project Highlights:**
-1. Exploratory Data Analysis (EDA): Visualized trends, distributions, and correlations in customer reviews and ratings.
+1. Exploratory Data Analysis: Visualized trends, distributions, and correlations in customer reviews and ratings.
 2. Statistical Testing: Hypothesis testing to identify significant factors that impact satisfaction.
 3. Predictive Modeling: Built logistic regression models to predict customer recommendations.
 4. Insights: Provided targeted recommendations for airlines to improve customer satisfaction.
