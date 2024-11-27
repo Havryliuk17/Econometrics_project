@@ -1,16 +1,19 @@
-Beyond the Clouds: Analyzing Airline Passenger Satisfaction
+**Beyond the Clouds: Analyzing Airline Passenger Satisfaction**
 
 **Project Overview:**
+
 This project dives into the factors that influence passenger satisfaction in the airline industry by analyzing customer feedback from an online review platform. The goal is to understand the key factors of satisfaction and dissatisfaction, provide airlines with practical recommendations, and develop predictive models to determine the likelihood that passengers will recommend airlines.
 
-**Dataset**
+**Dataset:**
+
 The data was sourced from an online airline review platform, spanning reviews from 2012 to 2023. The dataset has 129,000+ entries and includes:
 - Passenger Ratings: Seat comfort, food, service, ground services, WiFi, etc.
 - Flight Details: Airline name, travel type, cabin class, and route.
 - Overall Score: A 1-10 scale summarizing the flight experience.
 - Customer Reviews: Textual feedback on flight experiences.
 
-**Project Highlights**
+**Project Highlights:**
+
 1. Exploratory Data Analysis (EDA): Visualized trends, distributions, and correlations in customer reviews and ratings.
 2. Statistical Testing: Hypothesis testing to identify significant factors that impact satisfaction.
 3. Predictive Modeling: Built logistic regression models to predict customer recommendations.
