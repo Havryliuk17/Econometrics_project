@@ -11,13 +11,13 @@ The data was sourced from an online airline review platform, spanning reviews fr
 - Customer Reviews: Textual feedback on flight experiences.
 
 
-**Project Highlights:**\
+**Project Highlights:**
 1. Exploratory Data Analysis (EDA): Visualized trends, distributions, and correlations in customer reviews and ratings.
 2. Statistical Testing: Hypothesis testing to identify significant factors that impact satisfaction.
 3. Predictive Modeling: Built logistic regression models to predict customer recommendations.
 4. Insights: Provided targeted recommendations for airlines to improve customer satisfaction.
 
-**Key Findings:**\
+**Key Findings:**
   1. _Satisfaction Trends:_
   - Passenger satisfaction dropped significantly after COVID-19.
   - Economy class dominates passenger feedback, with the most significant variation in service satisfaction.
